@@ -17,8 +17,8 @@ int ys=0, zs=0;
 double theta=0.1;
 int N,h;
 double I[N][N];
-double phi0[N][N];   		//phiZERO
-double phiS[N][N];
+double phiO[N][N];   		//phi Objet
+double phiS[N][N];		//phi Source
 double x,y,x1,x2,y1,y2;
 int A=1;
 double r,X,Y,Z;
